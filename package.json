@@ -1,0 +1,34 @@
+{
+  "name": "cpu-load",
+  "version": "0.1.0",
+  "description": "Return the average CPU load across a spectrum of time",
+  "keywords": [
+    "cpu load",
+    "cpu",
+    "cpu cores",
+    "os",
+    "ops"
+  ],
+  "author": {
+    "name": "David Chubbs",
+    "email": "davidchubbuck@gmail.com",
+    "url": "https://github.com/davidchubbs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidchubbs/cpu-load.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidchubbs/cpu-load/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
