@@ -1,5 +1,4 @@
 # CPU Load
-==========
 
 [![License](https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat)](https://tldrlegal.com/license/mit-license "MIT License")
  [![Dependency Status](https://david-dm.org/davidchubbs/cpu-load.svg?style=flat)](https://david-dm.org/davidchubbs/cpu-load)
