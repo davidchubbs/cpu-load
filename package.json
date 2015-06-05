@@ -1,6 +1,6 @@
 {
   "name": "cpu-load",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Return the average CPU load across a spectrum of time",
   "keywords": [
     "cpu load",
